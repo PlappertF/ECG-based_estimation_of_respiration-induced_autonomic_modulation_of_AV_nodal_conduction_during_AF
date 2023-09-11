@@ -3,10 +3,10 @@
 %% Create a MEX-file
 % The MEX file is generated from the C++ file that Matlab can use
 
-% For Mac
-mex -setup C
-mex('AV_Node_model.cpp', '-compatibleArrayDims');
-% For Windows
+% Uncomment for Mac
+% mex -setup C
+% mex('AV_Node_model.cpp', '-compatibleArrayDims');
+% Uncomment for Windows
 % mex AV_Node_model.cpp -largeArrayDims
 
 %%
