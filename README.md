@@ -1,4 +1,14 @@
-# ECG-based_estimation_of_respiratory_modulation_of_AV_nodal_conduction_during_atrial_fibrillation
-This repo contains supplementary material for my publication 'ECG-based estimation of respiratory modulation of AV nodal conduction during atrial fibrillation'
+# ECG-based_estimation_of_respiration-induced_autonomic_modulation_of_AV_nodal_conduction_during_AF
+This repo contains supplementary material for our publication 'ECG-based estimation of respiration-induced autonomic modulation of AV nodal conduction during atrial fibrillation'
+
+AV-node-model: A mathematical network model of the human AV node
+
+(c) 2023 Department of Biomedical Engineering, Lund, Sweden and Fraunhofer-Chalmers Research Centre for Industrial Mathematics (FCC), Gothenburg, Sweden
+
+Research and development by Mikael Wallman, Felix Plappert, and Frida Sandberg
+
+The content is as follows:
+\AV_Node_model.cpp The model code
+\Execute_AV_node_model.m An example of how to run the code in Matlab.
 
 A preprint of this publication can be found on arXiv: https://arxiv.org/abs/2309.05458
