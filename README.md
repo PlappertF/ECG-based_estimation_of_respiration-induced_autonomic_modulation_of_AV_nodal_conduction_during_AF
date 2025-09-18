@@ -11,4 +11,4 @@ The content is as follows:
 \AV_Node_model.cpp The model code
 \Execute_AV_node_model.m An example of how to run the code in Matlab.
 
-A preprint of this publication can be found on arXiv: https://arxiv.org/abs/2309.05458
+This publication can be found on Frontiers of Physiology: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1281343/full
